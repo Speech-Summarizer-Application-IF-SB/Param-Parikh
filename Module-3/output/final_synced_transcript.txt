@@ -1,0 +1,4 @@
+[SPEAKER_01]: do we void
+[SPEAKER_01]: what do you want
+[SPEAKER_00]: good morning every one
+[SPEAKER_00]: let's discuss our project goals for the next quarter
